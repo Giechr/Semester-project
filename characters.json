@@ -1,0 +1,447 @@
+{
+    "characters": [{
+            "Id": 1,
+            "Name": "Tyrion Lannister",
+            "Culture": "",
+            "Titles": [
+                "Acting Hand of the King",
+                "Master of Coin (former)"
+            ],
+            "Aliases": [
+                "The Imp",
+                "Halfman",
+                "The boyman",
+                "Giant of Lannister",
+                "Lord Tywin's Doom",
+                "Lord Tywin's Bane",
+                "Yollo",
+                "Hugor Hill",
+                "No-Nose",
+                "Freak",
+                "Dwarf"
+            ],
+            "Born": "In 273 AC, at Casterly Rock",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": 2044,
+            "Children": [],
+            "Allegiances": [
+                229
+            ],
+            "Books": [
+                5,
+                11
+            ],
+            "PovBooks": [
+                1,
+                2,
+                3,
+                8
+            ],
+            "PlayedBy": [
+                "Peter Dinklage"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "Cersei Lannister",
+            "Culture": "Westerman",
+            "Titles": [
+                "Light of the West",
+                "Queen Dowager",
+                "Protector of the Realm",
+                "Lady of Casterly Rock",
+                "Queen Regent"
+            ],
+            "Aliases": [
+                "Cersei the Lioness"
+            ],
+            "Born": "In 266 AC, at Casterly Rock",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": 901,
+            "Children": [],
+            "Allegiances": [
+                229
+            ],
+            "Books": [
+                1,
+                2,
+                3
+            ],
+            "PovBooks": [
+                5,
+                8
+            ],
+            "PlayedBy": [
+                "Lena Headey"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "Daenerys Targaryen",
+            "Culture": "",
+            "Titles": [
+                "Princess"
+            ],
+            "Aliases": ["Mother of dragons"],
+            "Born": "In 172 AC",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": 719,
+            "Children": [],
+            "Allegiances": [
+                378,
+                285
+            ],
+            "Books": [
+                11,
+                6,
+                8
+            ],
+            "PovBooks": [],
+            "PlayedBy": [
+                ""
+            ],
+            "TvSeries": []
+        },
+        {
+            "Id": 4,
+            "Name": "Jon Snow",
+            "Culture": "Northmen",
+            "Titles": [
+                "Lord Commander"
+            ],
+            "Aliases": [
+                "Lord Snow",
+                "Ned Stark's Bastard",
+                "The Snow of Winterfell",
+                "The Crow-Come-Over",
+                "The 998th Lord Commander of the Night's Watch",
+                "The Bastard of Winterfell",
+                "The Black Bastard of the Wall",
+                "Lord Crow"
+            ],
+            "Born": "In 283 AC",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [
+                362
+            ],
+            "Books": [
+                5
+            ],
+            "PovBooks": [
+                1,
+                2,
+                3,
+                8
+            ],
+            "PlayedBy": [
+                "Kit Harington"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 5,
+            "Name": "Sansa Stark",
+            "Culture": "Northmen",
+            "Titles": [
+                "Princess"
+            ],
+            "Aliases": [
+                "Little bird",
+                "Alayne Stone",
+                "Jonquil"
+            ],
+            "Born": "In 286 AC, at Winterfell",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": 1052,
+            "Children": [],
+            "Allegiances": [
+                362,
+                10
+            ],
+            "Books": [
+                8
+            ],
+            "PovBooks": [
+                1,
+                2,
+                3,
+                5
+            ],
+            "PlayedBy": [
+                "Sophie Turner"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 6,
+            "Name": "Arya Stark",
+            "Culture": "Northmen",
+            "Titles": [
+                "Princess"
+            ],
+            "Aliases": [
+                "Arya Horseface",
+                "Arya Underfoot",
+                "Arry",
+                "Lumpyface",
+                "Lumpyhead",
+                "Stickboy",
+                "Weasel",
+                "Nymeria",
+                "Squan",
+                "Saltb",
+                "Cat of the Canaly",
+                "Bets",
+                "The Blind Girh",
+                "The Ugly Little Girl",
+                "Mercedenl",
+                "Mercye"
+            ],
+            "Born": "In 289 AC, at Winterfell",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [
+                362
+            ],
+            "Books": [],
+            "PovBooks": [
+                1,
+                2,
+                3,
+                5,
+                8
+            ],
+            "PlayedBy": [
+                "Maisie Williams"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 7,
+            "Name": "Jaime Lannister",
+            "Culture": "Westerlands",
+            "Titles": [
+                "Lord Commander",
+                "Ser",
+                "Warden of the East (formerly)"
+            ],
+            "Aliases": [
+                "The Kingslayer",
+                "The Lion of Lannister",
+                "The Young Lion",
+                "Cripple"
+            ],
+            "Born": "In 266 AC, at Casterly Rock",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [
+                229
+            ],
+            "Books": [
+                1,
+                2
+            ],
+            "PovBooks": [
+                3,
+                5,
+                8
+            ],
+            "PlayedBy": [
+                "Nikolaj Coster-Waldau"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5"
+            ]
+        },
+        {
+            "Id": 8,
+            "Name": "Brandon Stark",
+            "Culture": "Northmen",
+            "Titles": [
+                "Prince of Winterfell"
+            ],
+            "Aliases": [
+
+                "Bran the Broken",
+                "Bran",
+                "The Winged Wolf"
+            ],
+            "Born": "In 290 AC, at Winterfell",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [
+                362
+            ],
+            "Books": [
+                5
+            ],
+            "PovBooks": [
+                1,
+                2,
+                3,
+                8
+            ],
+            "PlayedBy": [
+                "Isaac Hempstead-Wright"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "Tormund Giantsbane",
+            "Culture": "Free Folk",
+            "Titles": [
+                "Tall-talker",
+                "Horn-blower and Breaker of Ice",
+                "Husband to Bears",
+                "the Mead-king of Ruddy Hall",
+                "Speaker to Gods and Father of Hosts"
+            ],
+            "Aliases": [
+                "Breaker of Ice",
+                "Mead-King of Ruddy Hall",
+                "Tormund Thunderfist",
+                "Tormund Horn-Blower",
+                "Tormund Tall-Talker",
+                "Husband to Bears",
+                "Speaker to Gods",
+                "Father of Hosts"
+            ],
+            "Born": "Unknown",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [],
+            "Books": [
+                3,
+                5,
+                8
+            ],
+            "PovBooks": [],
+            "PlayedBy": [
+                "Kristofer Hivju"
+            ],
+            "TvSeries": [
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "Samwell Tarly",
+            "Culture": "Andal",
+            "Titles": ["Member of the Night's Watch"],
+            "Aliases": [
+                "Sam",
+                "Ser Piggy",
+                "Prince Pork-chop",
+                "Lady Piggy",
+                "Sam the Slayer",
+                "Black Sam",
+                "Lord of Ham"
+            ],
+            "Born": "In 283 AC, at Horn Hill",
+            "Died": "",
+            "Father": null,
+            "Mother": null,
+            "Spouse": null,
+            "Children": [],
+            "Allegiances": [
+                379
+            ],
+            "Books": [
+                1,
+                2,
+                8
+            ],
+            "PovBooks": [
+                3,
+                5
+            ],
+            "PlayedBy": [
+                "John Bradley-West"
+            ],
+            "TvSeries": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6"
+            ]
+        }
+
+    ]
+}
