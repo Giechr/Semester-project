@@ -40,11 +40,11 @@ $.getJSON("characters.json", function (json) {
 function getSelectedChbox(player) {
     var arrayOfPlayers = []; // array that store the value of selected checkboxes
 
-    // gets all the input tags and their number
+    // gets all the input tags and their length
     var inp = player.getElementsByTagName('input');
     var nrInpfields = inp.length;
 
-    // traverse the inp elements, and adds the value of selected (checked) checkbox in arrayOfPlayers
+    // loop the inp elements, and adds the value of selected (checked) checkbox in arrayOfPlayers
     for (var i = 0; i < nrInpfields; i++) {
 
         if (inp[i].type == 'checkbox' && inp[i].checked == true) arrayOfPlayers.push(inp[i].value);
@@ -53,7 +53,7 @@ function getSelectedChbox(player) {
     return arrayOfPlayers;
 }
 
-// When click on #btn, send the selected values
+// When click , send the selected values
 document.getElementById('btn').onclick = function () {
 
     let selPlayer = getSelectedChbox(this.form); // gets the array returned by getSelectedChbox()

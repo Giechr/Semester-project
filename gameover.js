@@ -6,7 +6,7 @@ const winner = params.get("winner");
 console.log(winner);
 
 
-var c = document.getElementById("myCanvas");
+var c = document.getElementById("canvas");
 var cc = c.getContext("2d");
 
 //array of gray colors - these are very similar colors, let's hope this works out well.
