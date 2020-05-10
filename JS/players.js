@@ -3,7 +3,7 @@
 var chr = document.getElementById("cards");
 
 // Get JSON
-$.getJSON("../JSON/characters.json", function (json) {
+$.getJSON("JSON/characters.json", function (json) {
 
     //Loop JSON
     for (i = 0; i < json.characters.length; i++) {
@@ -62,7 +62,7 @@ document.getElementById('btn').onclick = function () {
 
     if (selPlayer.length === 2) {
 
-        window.location.href = `../game.html?player1=${player1}&player2=${player2}`;
+        window.location.href = `game.html?player1=${player1}&player2=${player2}`;
     } else {
         document.getElementById("message").innerHTML = `<div class="alert alert-danger">WARNING! Select two players to proceed..</div>`;
     }
