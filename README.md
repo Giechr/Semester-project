@@ -1,2 +1,2 @@
 # Semester project 2
- school project
+The game starts from "players.html"
