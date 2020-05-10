@@ -3,7 +3,7 @@
 var chr = document.getElementById("cards");
 
 // Get JSON
-$.getJSON("characters.json", function (json) {
+$.getJSON("JSON/characters.json", function (json) {
 
     //Loop JSON
     for (i = 0; i < json.characters.length; i++) {
