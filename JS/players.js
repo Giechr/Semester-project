@@ -62,7 +62,7 @@ document.getElementById('btn').onclick = function () {
 
     if (selPlayer.length === 2) {
 
-        window.location.href = `game.html?player1=${player1}&player2=${player2}`;
+        window.location.href = `../game.html?player1=${player1}&player2=${player2}`;
     } else {
         document.getElementById("message").innerHTML = `<div class="alert alert-danger">WARNING! Select two players to proceed..</div>`;
     }
