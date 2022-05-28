@@ -21,12 +21,12 @@ The result of the project is a game called "game of traps". The game it self is 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:Giechr/Semester-project.git
 ```
 
 ## Contributing
 
-Project is finalized. This was a school project that not allowed contrubtions from others.  
+Project is finalized. This was a school project that did not allow contrubtions from others.  
 
 ## Contact
 
